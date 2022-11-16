@@ -1,0 +1,14 @@
+variables = {}
+variables["host"] = "localhost"
+variables ["user"] = "root"
+variables ["pws"] = 'holamundo'
+variables ["bd"] = "itj_estudiantes"
+variables["port"] = "3306"
+variables["timeout"] = 1000
+variables_nube = {}
+variables_nube["host"] = "35.232.220.77"
+variables_nube ["user"] = "root"
+variables_nube ["pws"] = 'HFDMNKKDKSWHSJR7789HRNF949K'
+variables_nube ["bd"] = "itj_alumnos"
+variables_nube["port"] = "3306"
+variables_nube["timeout"] = 1000
